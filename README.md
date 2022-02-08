@@ -6,7 +6,7 @@ Write a tool to help AccessPort users better understand their driving habits.
 
 ## How to use
 ### Requirements:
-- ![Anaconda](https://anaconda.org/anaconda/python)
+- [Anaconda](https://anaconda.org/anaconda/python)
 - AccessPort Logging Parameters (minimally):
   - Gear Position
   - Clutch Sw
