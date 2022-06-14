@@ -29,7 +29,9 @@ jupyter notebook
  
  ## UX
  
- ![UX_1](/screenshots/ux_1.png?raw=true "UX Ex.")
+
+https://user-images.githubusercontent.com/7589967/173479706-0c2da1de-e710-41b8-8560-57149bb34e9b.mov
+
  
  The app maintains a simple UX for now, to be refined with time and use.
  For now, running the chunks of the notebook is the best way to interact with the program.
