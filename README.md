@@ -16,8 +16,16 @@ Write a tool to help AccessPort users better understand their driving habits.
   - SI Drive Mode (optional, but helps)
   
 ### Use
-- Install Anaconda
-- Open Jupyter Notebook
+- Install Anaconda, then
+
+In log-dive directory, run
+`conda create --name log-dive --file requirements.txt`
+
+- Open Jupyter Notebook with
+```
+conda activate log-dive
+jupyter notebook
+```
  
  ## UX
  
